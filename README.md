@@ -8,4 +8,8 @@
   <a href="https://t.me/zanykk">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="35"/>
   </a> 
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Vkontakte Badge"/>
+  </a>
 </div>
