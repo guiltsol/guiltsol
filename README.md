@@ -3,15 +3,7 @@
 </div>
 <div id="badges" align="center">
   <a href="https://vk.com/russkikhmax">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width="35"/>
-  </a> 
-  <a href="https://t.me/zanykk">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="35"/>
-  </a> 
-  </a>
-  <a href="https://vk.com/russkikhmax">
     <img src="https://img.shields.io/badge/VK-purple?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"/>
-  </a>
   </a>
   <a href="https://t.me/zanykk">
     <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Vkontakte Badge"/>
