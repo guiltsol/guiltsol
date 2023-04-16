@@ -3,6 +3,6 @@
 </div>
 <div id="badges" align="center">
   <a href="https://vk.com/russkikhmax">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngicon.ru%2Fznachok-vk.html&psig=AOvVaw2hhBXeUFggs2mFsZBihffn&ust=1681733093157000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCc942urv4CFQAAAAAdAAAAABAE"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg"/>
   </a> 
 </div>
