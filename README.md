@@ -8,7 +8,4 @@
   <a href="https://t.me/zanykk">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="35"/>
   </a> 
-   <a href="https://www.instagram.com/liebheart__/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="35"/>
-  </a> 
 </div>
