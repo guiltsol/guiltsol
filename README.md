@@ -5,7 +5,7 @@
   <a href="https://vk.com/russkikhmax">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width="50"/>
   </a> 
-  <a href="[https://vk.com/russkikhmax](https://t.me/zanykk)">
+  <a href="https://t.me/zanykk">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="50"/>
   </a> 
 </div>
