@@ -3,6 +3,6 @@
 </div>
 <div id="badges" align="center">
   <a href="https://vk.com/russkikhmax">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fvkontakte-api&psig=AOvVaw0BQfLq2W1LA9NJxQKtOuyR&ust=1681732826313000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjS3o6trv4CFQAAAAAdAAAAABAD"/>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngicon.ru%2Fznachok-vk.html&psig=AOvVaw2hhBXeUFggs2mFsZBihffn&ust=1681733093157000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCc942urv4CFQAAAAAdAAAAABAE"/>
   </a> 
 </div>
