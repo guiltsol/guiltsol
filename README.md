@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align="center">
   <a href="https://vk.com/russkikhmax">
-    <img src="https://img.shields.io/badge/VK-purple?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"/>
+    <img src="https://img.shields.io/badge/Vkontakte-black?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"/>
   </a>
   <a href="https://t.me/zanykk">
     <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Vkontakte Badge"/>
