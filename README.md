@@ -4,5 +4,5 @@
 <div id="badges" align="center">
   <a href="https://vk.com/russkikhmax">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a> import { Icon24LogoVkColor } from '@vkontakte/icons';
 </div>
