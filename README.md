@@ -3,9 +3,9 @@
 </div>
 <div id="badges" align="center">
   <a href="https://vk.com/russkikhmax">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width="25"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width="35"/>
   </a> 
   <a href="https://t.me/zanykk">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="25"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="35"/>
   </a> 
 </div>
