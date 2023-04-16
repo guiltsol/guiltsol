@@ -9,6 +9,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="35"/>
   </a> 
    <a href="https://www.instagram.com/liebheart__/">
-    <img src="https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Instagram_logo.svg#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Instagram_logo_2016.svg" width="35"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="35"/>
   </a> 
 </div>
