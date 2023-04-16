@@ -9,4 +9,6 @@
     <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Vkontakte Badge"/>
   </a>
 </div>
+<div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=guiltsol&style=flat-square&color=blue" alt=""/>
+</div>
