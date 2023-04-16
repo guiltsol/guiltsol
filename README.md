@@ -3,6 +3,6 @@
 </div>
 <div id="badges" align="center">
   <a href="https://vk.com/russkikhmax">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> import { Icon24LogoVkColor } from '@vkontakte/icons';
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fvkontakte-api&psig=AOvVaw0BQfLq2W1LA9NJxQKtOuyR&ust=1681732826313000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjS3o6trv4CFQAAAAAdAAAAABAD"/>
+  </a> 
 </div>
