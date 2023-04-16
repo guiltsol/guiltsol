@@ -14,6 +14,6 @@
   </a>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"/>
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Vkontakte Badge"/>
   </a>
 </div>
