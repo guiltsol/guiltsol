@@ -5,7 +5,7 @@
   <a href="https://vk.com/russkikhmax">
     <img src="https://img.shields.io/badge/Vkontakte-black?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"/>
   </a>
-  <a href="https://t.me/ayanoqo">
+  <a href="https://t.me/judasu">
     <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Vkontakte Badge"/>
   </a>
 </div>
